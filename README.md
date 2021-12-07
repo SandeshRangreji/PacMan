@@ -1,0 +1,2 @@
+# PacMan
+The classic game PacMan in C++ from scratch using fundamental libraries and a graphics library. Followed the  Object-Oriented Programming methodology including concepts such as inheritance, abstraction, encapsulation, and polymorphism. Utilized a database to include features like saving game progress and leaderboards. Devised a logic to help the ghosts use rule-based Artificial Intelligence to play against the user controlling PacMan.
